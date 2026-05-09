@@ -2,6 +2,10 @@
 
 An advanced AI-powered recruitment and career analysis platform built using Machine Learning, NLP, and Streamlit.
 
+## Live Demo
+
+https://your-app.streamlit.app
+
 ## Features
 
 - Resume Parsing
